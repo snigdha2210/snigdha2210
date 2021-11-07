@@ -1,4 +1,4 @@
-### Hey there, I'm Snigdha: [snigdha2210](https://snigdha2210.github.io/portfolio-new/) <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 26px> </h1>
+### Hey there, I'm Snigdha: [snigdha2210](https://snigdha2210.github.io/) <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 26px> </h1>
 
 <h3> I am a Junior at BITS Goa </h3>
 
@@ -11,7 +11,7 @@
 <h3 align='left'> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="40px"> </h3>
 <p align = 'left'>
 <a href = 'https://www.linkedin.com/in/snigdhat/'> <img width = '26px' align= 'left' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
-<a href = 'https://snigdha2210.github.io/portfolio-new/'> <img width = '26px' align= 'left' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
+<a href = 'https://snigdha2210.github.io/'> <img width = '26px' align= 'left' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 </p>
 <br>
 </div>
