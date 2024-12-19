@@ -1,32 +1,54 @@
-### Hey there, I'm Snigdha: [snigdha2210](https://snigdha2210.github.io/) <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 26px> </h1>
+### Hey there, I'm Snigdha: [snigdha2210](https://snigdha2210.github.io/) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="26px" />
 
-<h3> I am a Junior at BITS Goa </h3>
+<h3> I am a Master's Student at Carnegie Mellon University </h3>
 
-- 🌱 I’m currently exploring the feilds of Data Science and Deep learning.
-- 💬 Talk to me about Web Development, and machine learning research.
+- 🌱 I’m currently exploring Rust Development, DevOps.
+- 💬 Talk to me about Full Stack Development, Web Development, Accessibility, and building scalable systems.
 - 😄 Pronouns: she/her
+- 🎓 Expected graduation: Dec 2024, GPA: 3.85
 
+---
 
-</p>
-<h3 align='left'> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="40px"> </h3>
-<p align = 'left'>
-<a href = 'https://www.linkedin.com/in/snigdhat/'> <img width = '26px' align= 'left' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
-<a href = 'https://snigdha2210.github.io/'> <img width = '26px' align= 'left' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
+<h3 align='left'> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="40px" /> </h3>
+<p align='left'>
+  <a href='https://www.linkedin.com/in/snigdhat/'>
+    <img width='26px' align='left' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>
+  </a>
+  <a href='https://snigdha2210.github.io/'>
+    <img width='26px' align='left' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/>
+  </a>
 </p>
 <br>
-</div>
 
-<h3 align='left'> Skills and Languages <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 26px> </h3>
-<p align = 'left'>
-<img width ='26px' align='left' src ='https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg' />
-<img width ='26px' align='left' src ='https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg' />
-<img width ='26px' align='left' src ='https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg'>
-<img width ='26px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'>
-<img width ='26px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg' />
-<img width ='26px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'>
-<img width ='26px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'>
-<img width ='26px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://user-images.githubusercontent.com/21227322/31187159-01c8d592-a8ff-11e7-9386-af708a7ae9de.png" /> 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://camo.githubusercontent.com/df1439c289b9cb4558e079a9110731e666976c4f2b6ef387b8fee78ca95375dc/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3435322f66697265626173652e706e67" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://camo.githubusercontent.com/720ed473d178f9380291709d2223860ade4f3c7bc368e3fea1ad057b8dc9c6f5/68747470733a2f2f6e6f64656a732e6f72672f7374617469632f696d616765732f6c6f676f2d6c696768742e737667" />
+---
+
+<h3 align='left'> Skills and Languages <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="26px" /> </h3>
+<p align='left'>
+  <img class="skills-img" tabindex="0" align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="Javascript"/>
+  <img class="skills-img" tabindex="0" align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="Typescript"/>
+  <img class="skills-img" tabindex="0" align='left' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg' alt="HTML" />
+  <img class="skills-img" tabindex="0" align='left' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg' alt="CSS" />
+  <img class="skills-img" tabindex="0" align='left' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg' alt="C" />
+  <img class="skills-img" tabindex="0" align='left' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg' alt="C++" />
+  <img class="skills-img" tabindex="0" align='left' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg' alt="Python" />
+
+  <!-- Frameworks and Tools -->
+  <img class="skills-img" tabindex="0" align='left' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg' alt="ReactJS" />
+  <img class="skills-img" tabindex="0" align='left' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg' alt="Flutter" />
+  <img class="skills-img" tabindex="0" align='left' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg' alt="Django" />
+  <img class="skills-img" tabindex="0" align='left' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg' alt="Pandas" />
+  <img class="skills-img" tabindex="0" align='left' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg' alt="Numpy" />
+  <img class="skills-img" tabindex="0" align='left' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg' alt="Docker" />
+  <img class="skills-img" tabindex="0" align='left' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg' alt="AWS" />
+  <img class="skills-img" tabindex="0" align='left' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg' alt="Jenkins" />
+
+  <!-- Organizational Software -->
+  <img class="skills-img" tabindex="0" align='left' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg' alt="Git" />
+  <img class="skills-img" tabindex="0" align='left' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg' alt="JIRA" />
+  <img class="skills-img" tabindex="0" align='left' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original.svg' alt="Confluence" />
+  <img class="skills-img" tabindex="0" align='left' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg' alt="Trello" />
+  <img class="skills-img" tabindex="0" align='left' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg' alt="Postman" />
+</p>
+<br>
+
+---
