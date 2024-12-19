@@ -2,7 +2,7 @@
 
 <h3> I am a Master's Student at Carnegie Mellon University </h3>
 
-- 🌱 I’m currently exploring Rust Development, DevOps.
+- 🌱 I’m currently exploring Rust Development, DevOps, AI.
 - 💬 Talk to me about Full Stack Development, Web Development, Accessibility, and building scalable systems.
 - 😄 Pronouns: she/her
 - 🎓 Expected graduation: Dec 2024, GPA: 3.85
