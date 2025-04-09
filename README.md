@@ -4,6 +4,7 @@
 <h3>🎓 Master's Student at Carnegie Mellon University, Software Engineering - Scalable Systems</h3>
 
 - 🔭 Currently working in a stealth startup as a backend developer
+- 🎯 Actively seeking full-time Software Engineering roles starting January 2025
 - 🌱 Exploring AI integration, Unity, DevOps, and many more technologies
 - 🛠️ Building accessible, scalable systems with a focus on full-stack engineering
 - 💬 Ask me about anything full-stack!
