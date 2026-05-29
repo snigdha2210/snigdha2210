@@ -1,7 +1,7 @@
 
 ### Hey there, I'm Snigdha: [snigdha2210](https://snigdha2210.github.io/) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="26px" />
 
-<h3>🧑‍💻 Software Engineer @ Narravance | CMU MSE '24</h3>
+<h3> 👩‍💻 Software Engineer @ Narravance | CMU MSE '24</h3>
 
 - 🔭 Currently leading full-stack development on a real-time social listening & analytics platform
 - 🛠️ Building an accessibility audit agent — learning new tools along the way
@@ -78,7 +78,6 @@
 <img width='26px' src="https://cdn.simpleicons.org/temporal" alt="Temporal"/>
 
 </p>
-<br>
 
 ---
 
